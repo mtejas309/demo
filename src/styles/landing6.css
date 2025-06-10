@@ -75,7 +75,9 @@
 
 @media (max-width: 738px) {
   .l6-main {
+    padding: 30px;
     display: flex;
+    gap: 20px;
     flex-direction: column;
   }
   .l6-m1 {
