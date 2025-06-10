@@ -109,6 +109,9 @@
 }
 
 @media (max-width: 768px) {
+  .subscribe-input input {
+    width: 60%;
+  }
   .footer-top {
     display: flex;
     flex-direction: column;
